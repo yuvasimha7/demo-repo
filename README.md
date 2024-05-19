@@ -1,2 +1,2 @@
 # demo-repo
-demo repo for learning git 
+this is updated readme file
